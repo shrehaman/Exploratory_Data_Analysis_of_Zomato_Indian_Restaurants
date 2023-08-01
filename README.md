@@ -14,6 +14,9 @@ Key Features of the Zomato Data Analysis Project:
 - Analysis Report: The project concludes with an analysis report summarizing the key findings, trends, and insights derived from the Zomato dataset for Indian restaurants. This report presents actionable insights and recommendations based on the analysis performed.
 
 The Zomato Data Analysis project on Indian restaurants contributes valuable insights into the Indian dining industry, helping restaurant owners, food enthusiasts, and researchers make informed decisions. The visualizations, word clouds, and analysis report provide a comprehensive overview of the Indian restaurant landscape and enable stakeholders to better understand customer preferences.
+
+Project-26
+
 ## Table of Contents
 - [Technology Used](#technologies)
 - [Contributing](#contributing)
